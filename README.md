@@ -1,2 +1,3 @@
 # my_cv  
-GitHub Page: 
+GitHub Page: https://rockiua.github.io/my_cv/ 
+
